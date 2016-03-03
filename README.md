@@ -7,7 +7,7 @@ If you are an employer and would like to see my implementations of these project
 
 ### Project 0
 
-The main purpose of Project 0 was to create a VM in which we created a few new system calls and recompiled the Linux kernel. For now, the system calls just print "Hello World" to the syslog. In project 2, they wil do more interesting things.
+The main purpose of Project 0 was to create a VM in which we created a few new system calls and recompiled the Linux kernel. For now, the system calls just print "Hello World" to the syslog. In project 2, they will do more interesting things.
 
 ### Project 1
 
